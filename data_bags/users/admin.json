@@ -1,0 +1,12 @@
+{
+  "id": "admin",  
+  "password": "$6$[...]098/",
+  "ssh_keys": [
+    // Add your ssh public key
+    ""
+    ],
+  "groups": [ "sysadmin" ],
+  "uid": 2001,
+  "shell": "\/bin\/bash",
+  "comment": ""
+}

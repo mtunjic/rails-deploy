@@ -18,4 +18,14 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     chef.add_recipe "git"
 
   end
+
+  chef.add_role "base"
+  chef.json = {
+    :authorization => {
+      :sudo => {
+        :users => ["vagrant"],
+        :passwordless => true
+      }
+    }
+  }
 end
