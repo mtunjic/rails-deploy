@@ -1,0 +1,9 @@
+{
+  "id" : "deploy",
+  "groups" : [ "admin" ],
+  "shell" : "/bin/bash",
+  "comment" : "Deploy User",
+  "ssh_keys" : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABIwaHq..."
+  ]
+}
