@@ -1,0 +1,93 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "nginx": {
+      "locked_version": "2.0.4"
+    },
+    "database": {
+      "locked_version": "1.5.2"
+    },
+    "git": {
+      "locked_version": "2.7.0"
+    },
+    "chef-solo-search": {
+      "locked_version": "0.5.1",
+      "git": "git://github.com/edelight/chef-solo-search.git",
+      "ref": "681f78a108f5f8a3655551b32d9939603628c568"
+    },
+    "runit": {
+      "locked_version": "1.4.0"
+    },
+    "databox": {
+      "locked_version": "0.1.1"
+    },
+    "rackbox": {
+      "locked_version": "0.1.2"
+    },
+    "bluepill": {
+      "locked_version": "2.3.0"
+    },
+    "rsyslog": {
+      "locked_version": "1.9.0"
+    },
+    "ohai": {
+      "locked_version": "1.1.12"
+    },
+    "yum": {
+      "locked_version": "2.4.2"
+    },
+    "mysql": {
+      "locked_version": "4.0.6"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "postgresql": {
+      "locked_version": "3.3.4"
+    },
+    "aws": {
+      "locked_version": "1.0.0"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    },
+    "dmg": {
+      "locked_version": "2.0.8"
+    },
+    "windows": {
+      "locked_version": "1.11.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "appbox": {
+      "locked_version": "0.1.1"
+    },
+    "sudo": {
+      "locked_version": "2.2.2"
+    },
+    "user": {
+      "locked_version": "0.3.0"
+    },
+    "curl": {
+      "locked_version": "1.1.0"
+    },
+    "htop": {
+      "locked_version": "1.2.0"
+    },
+    "tmux": {
+      "locked_version": "1.4.0"
+    },
+    "rbenv": {
+      "locked_version": "1.6.5"
+    },
+    "unicorn": {
+      "locked_version": "1.3.0"
+    }
+  }
+}
